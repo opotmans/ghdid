@@ -1,0 +1,8 @@
+{
+  "name": "github-did-config",
+  "version": "0.0.5",
+  "wallet": "C:\\Users\\potma\\.github-did\\wallet.enc",
+  "webWallet": "C:\\Users\\potma\\.github-did\\web.wallet.enc",
+  "logs": "C:\\Users\\potma\\.github-did\\log.json",
+  "repoUrl": "https://github.com/OPOTMANS/ghdid"
+}
